@@ -3,6 +3,7 @@
 ## Dashboard Preview
 
 ![HR Analytics Dashboard](HR-Analytics-Dashboard-PowerBi.png)
+<img src="HR-Analytics-Dashboard-PowerBi.png" width="100%">
 
 ## Project Overview
 This project focuses on analyzing employee attendance and workforce trends using Power BI. The dashboard provides insights into presence percentage, work-from-home trends, and leave utilization to support HR decision-making.
